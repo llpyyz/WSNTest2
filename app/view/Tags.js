@@ -1,3 +1,4 @@
+//Tags class - the Mood and Style buttons used as filters. Implemented with tool bar of segmented buttons
 Ext.define('WSN_Test2.view.Tags', {
     extend : 'Ext.Panel',
     xtype : 'tags',
